@@ -1,0 +1,21 @@
+title: トークリハ
+description: AIと安心して会話練習できるiOSアプリ
+theme: jekyll-theme-minimal
+baseurl: ""
+url: "https://yuki7827.github.io/Shaberiba"
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Include these files
+include:
+  - legal
+
+# Exclude from processing
+exclude:
+  - "*.md"
+  - "!index.md"
+  - "!legal/*.md"
